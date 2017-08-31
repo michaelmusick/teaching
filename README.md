@@ -12,3 +12,5 @@ My course are designed to
 • Collaborate across disciplines.
 • Adopt and use professional practices. 
 • Integrate Cultural Literacy
+
+<!-- The above has been adapted from Lady K's (https://github.com/LadyK) Creative Coding Course (https://github.com/IDMNYU/DM-UY-1133-A-CreativeCoding-Bennett/blob/master/README.md) and the Program Goals for NYU's IDM. -->
