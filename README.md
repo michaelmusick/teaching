@@ -12,7 +12,7 @@ Rm: 232
 #### Office Hours
 
 - Wednesdays: 12:00pm - 1:00pm
-- Thursdays: 11:30am - 1:30pm
+- Thursdays: 10:30am - 12:30pm
 
 # Courses
 
